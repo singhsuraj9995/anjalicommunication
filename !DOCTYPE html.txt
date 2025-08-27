@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anjali Communication</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f5f5f5;
+    }
+    h1 {
+      color: #d32f2f;
+    }
+    img {
+      margin-top: 20px;
+      border: 3px solid #333;
+      border-radius: 10px;
+      max-width: 90%;
+      height: auto;
+    }
+    p {
+      font-size: 18px;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to Anjali Communication</h1>
+  <p>Mobile Repairing & Accessories Center</p>
+
+  <!-- Yaha aapki dukaan ka photo add ho jayega -->
+  <img src="876E0EDE-3AE9-4AAC-BE6F-19E7C825019B.jpeg" alt="Anjali Communication Shop">
+
+  <p>📍 Location: New Etwarpur, Patna</p>
+  <p>📞 Contact: 9341872806</p>
+</body>
+</html>
